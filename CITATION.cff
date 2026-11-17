@@ -2,6 +2,16 @@ cff-version: 1.2.0
 message: "Se usar estes dados ou este código, cite-os conforme abaixo."
 title: "Orçamento da Educação de Minas Gerais, 2015–2025: base de dados, código e memória de cálculo"
 version: 1.0.0
+doi: 10.5281/zenodo.24297484
+repository-code: "https://github.com/ruifernandof-glitch/orcamento-educacao-mg-2015-2025"
+url: "https://doi.org/10.5281/zenodo.24297484"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.24297484
+    description: "DOI conceito (todas as versões)"
+  - type: doi
+    value: 10.5281/zenodo.24297485
+    description: "DOI da versão 1.0.0"
 date-released: 2026-11-16
 license: MIT
 type: software
@@ -12,6 +22,7 @@ authors:
   - family-names: Ferreira
     given-names: Rui Fernando Correia
     affiliation: Centro Universitário Unihorizontes
+    orcid: "https://orcid.org/0000-0001-8724-4267"
 keywords:
   - orçamento público
   - incrementalismo
