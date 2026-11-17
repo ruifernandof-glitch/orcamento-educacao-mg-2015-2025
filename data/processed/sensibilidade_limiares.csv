@@ -1,0 +1,7 @@
+recorte,limiar,n_variacoes,incrementais,nao_incrementais,proporcao_nao_incremental,anos_nao_incrementais
+funcao12,0.05,10,3,7,0.7,"2016, 2018, 2019, 2020, 2021, 2022, 2024"
+funcao12,0.1,10,7,3,0.3,"2020, 2021, 2022"
+funcao12,0.15,10,9,1,0.1,2021
+see1261,0.05,10,3,7,0.7,"2016, 2018, 2019, 2020, 2021, 2022, 2024"
+see1261,0.1,10,7,3,0.3,"2020, 2021, 2022"
+see1261,0.15,10,9,1,0.1,2021

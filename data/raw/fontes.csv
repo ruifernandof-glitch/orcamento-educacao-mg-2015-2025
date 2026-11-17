@@ -1,0 +1,10 @@
+,,,,,
+Fonte,Conteúdo utilizado,Período,Status,URL,Observação
+Portal de Dados Abertos MG — Despesa pública,"Empenhado, liquidado, pago e dimensões SIAFI",2015–2025,Coletado,https://dados.mg.gov.br/dataset/despesa,Atualização diária; licença CC-BY-4.0.
+Portal de Dados Abertos MG — Proposta e alterações,"Dotação inicial, créditos, suplementações e anulações",2020–2025,Coletado,https://dados.mg.gov.br/dataset/proposta-lei-orcamentaria,Base de créditos disponível para o recorte filtrado a partir de 2020.
+ALMG — LOA 2025 Volume I,Validação da função 12,2025,Validado,https://mediaserver.almg.gov.br/acervo/405/297/2405297.pdf,Confirma R$ 21.243.913.011.
+ALMG — LOA 2025 Volume IIA,Validação da UO 1261,2025,Validado,https://mediaserver.almg.gov.br/acervo/405/298/2405298.pdf,Confirma R$ 19.602.245.472.
+ALMG — Relatório de Controle Interno 2020,Validação independente da execução,2020,Validado,https://mediaserver.almg.gov.br/acervo/553/233/1553233.pdf,Confere dotação e execução da função Educação.
+SEF/MG — RREO Anexo 8,"MDE, FUNDEB e mínimo constitucional",2015–2025,Índice de fontes,https://www.fazenda.mg.gov.br/governo/contadoria_geral/lrf/,Usar o 6º bimestre de cada exercício para análise anual.
+IBGE — IPCA,Deflação para preços de dezembro de 2025,2015–2025,Coletado,https://www.ibge.gov.br/estatisticas/economicas/precos-e-custos/9256-indice-nacional-de-precos-ao-consumidor-amplo.html,Fatores calculados por encadeamento das taxas anuais.
+Pasta de trabalho do pesquisador,Série de dotação inicial da LOA e validações preliminares,2015–2025,Incorporado criticamente,https://drive.google.com/drive/folders/1VFKuZ1CcIBQP7lf46y4l_rUn7NHyOfZd,Mantida separação entre função 12 e UO 1261.

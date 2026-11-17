@@ -1,0 +1,5 @@
+﻿cenario;n;media;mediana;desvio_padrao;assimetria;curtose_excedente;shapiro_w;shapiro_p;prop_abs_ge_10;prop_abs_ge_50
+Principal (variação simples, todos os anos);138;+62,1%;−0,3%;+373,0%;8,03;71,69;0,24;< 0,001;72,5%;26,1%
+Sem 2020 (reclassificação 122→368);127;+34,8%;−0,3%;+209,7%;7,22;57,55;0,30;< 0,001;71,7%;22,8%
+Variação logarítmica, todos os anos;138;+2,5%;−0,3%;+74,8%;1,05;6,70;0,85;< 0,001;73,9%;28,3%
+Variação logarítmica, sem 2020;127;−0,1%;−0,3%;+66,0%;0,54;6,40;0,86;< 0,001;72,4%;25,2%
