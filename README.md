@@ -1,5 +1,7 @@
 # Orçamento da Educação de Minas Gerais, 2015–2025: incrementalismo e equilíbrio pontuado
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24297484.svg)](https://doi.org/10.5281/zenodo.24297484)
+
 Base de dados, código e memória de cálculo da dissertação de mestrado
 **“Incrementalismo e dinâmica política do orçamento educacional: uma análise da alocação de recursos da educação no Estado de Minas Gerais”**
 (Programa de Pós-Graduação em Administração, Centro Universitário Unihorizontes, 2026).
@@ -98,7 +100,10 @@ A série anual oferece apenas dez variações interanuais. Os créditos autoriza
 
 Use o botão **“Cite this repository”** do GitHub (arquivo [CITATION.cff](CITATION.cff)) ou:
 
-> Sousa, E. C. da S., & Ferreira, R. F. C. (2026). *Orçamento da Educação de Minas Gerais, 2015–2025: base de dados, código e memória de cálculo* (Versão 1.0.0) [Conjunto de dados e software]. Centro Universitário Unihorizontes.
+> Sousa, E. C. da S., & Ferreira, R. F. C. (2026). *Orçamento da Educação de Minas Gerais, 2015–2025: Base de dados, código e memória de cálculo* (Versão 1.0.0) [Conjunto de dados e software]. Zenodo. https://doi.org/10.5281/zenodo.24297484
+
+- **DOI conceito** (sempre a versão mais recente; use este para citar): [10.5281/zenodo.24297484](https://doi.org/10.5281/zenodo.24297484)
+- **DOI da versão 1.0.0:** [10.5281/zenodo.24297485](https://doi.org/10.5281/zenodo.24297485)
 
 ## Licenças
 
