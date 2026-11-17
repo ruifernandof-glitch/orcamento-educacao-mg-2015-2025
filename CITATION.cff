@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "Se usar estes dados ou este código, cite-os conforme abaixo."
+title: "Orçamento da Educação de Minas Gerais, 2015–2025: base de dados, código e memória de cálculo"
+version: 1.0.0
+date-released: 2026-11-16
+license: MIT
+type: software
+authors:
+  - family-names: Sousa
+    given-names: Eduardo César da Silveira
+    affiliation: Centro Universitário Unihorizontes
+  - family-names: Ferreira
+    given-names: Rui Fernando Correia
+    affiliation: Centro Universitário Unihorizontes
+keywords:
+  - orçamento público
+  - incrementalismo
+  - equilíbrio pontuado
+  - financiamento da educação
+  - Minas Gerais
+abstract: >-
+  Base de dados, código Python e memória de cálculo que reproduzem a análise
+  da execução orçamentária da Função 12 – Educação e da Secretaria de Estado
+  de Educação de Minas Gerais entre 2015 e 2025, à luz do incrementalismo e da
+  teoria do equilíbrio pontuado.
+references:
+  - type: thesis
+    title: "Incrementalismo e dinâmica política do orçamento educacional: uma análise da alocação de recursos da educação no Estado de Minas Gerais"
+    authors:
+      - family-names: Sousa
+        given-names: Eduardo César da Silveira
+    institution:
+      name: Centro Universitário Unihorizontes
+    year: 2026
+    thesis-type: Dissertação de Mestrado em Administração
